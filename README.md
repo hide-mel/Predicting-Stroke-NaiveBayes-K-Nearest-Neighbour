@@ -22,7 +22,7 @@ I utilise the packages to the fol-lowing packages in this project:
 • matplotlib to create plots and visualizations
 
 # Data:
-For this project, I have adapted the Stroke data that have been used for stroke prediction [1], available online at (https://data.mendeley.com/datasets/x8ygrw87jw/1):
+For this project, I have adapted the Stroke data that have been used for stroke prediction, available online at (https://data.mendeley.com/datasets/x8ygrw87jw/1):
 Some critical information:
 1. File name: stroke_update.csv
 2. 2740 instances
