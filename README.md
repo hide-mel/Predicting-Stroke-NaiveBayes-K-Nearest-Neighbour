@@ -3,18 +3,18 @@
 Project: Naive Bayes and K-Nearest Neighbour for Predicting Stroke
 
 # Overview:
-In this project, we will implement Naive Bayes and K-Nearest Neighbour (K-NN) classifiers. we will explore inner workings and evaluate behavior on a data set of stroke prediction, and on this basis respond to some conceptual questions.
+In this project, I will implement Naive Bayes and K-Nearest Neighbour (K-NN) classifiers. I will explore inner workings and evaluate behavior on a data set of stroke prediction, and on this basis respond to some conceptual questions.
 
 # Implementation:
-we implement your Naive Bayes classifier from scratch. we use Python libraries for implementing K-NN, evaluation metrics, procedures and data processing.
-we have function called preprocess(), which opens the data file, and converts it into a usable format. It  also define the following functions:
-• split_data(), where we split our data sets into a training set and a hold-out test set.
-• train(), where we build Naive Bayes and K-NN classifiers from the training data. we can create train our data as we answer the related question.
-• predict(), where we use a trained model to predict a class for the test data. we can also do prediction as we answer the related question.
-• evaluate(),where we will output the accuracy of our classifiers, or sufficient information so that it can be easily calculated by hand.
+I implement my Naive Bayes classifier from scratch. I use Python libraries for implementing K-NN, evaluation metrics, procedures and data processing.
+I have function called preprocess(), which opens the data file, and converts it into a usable format. It  also define the following functions:
+• split_data(), where I split our data sets into a training set and a hold-out test set.
+• train(), where I build Naive Bayes and K-NN classifiers from the training data. I can create train our data as I answer the related question.
+• predict(), where I use a trained model to predict a class for the test data. I can also do prediction as I answer the related question.
+• evaluate(),where I will output the accuracy of our classifiers, or sufficient information so that it can be easily calculated by hand.
 
 # Packages:
-We utilise the packages to the fol-lowing packages in this project:
+I utilise the packages to the fol-lowing packages in this project:
 • pandas to read, split and preprocess the data
 • sklearn to develop K-NN model and evaluate models
 • numpy to implement scientific computing
@@ -22,7 +22,7 @@ We utilise the packages to the fol-lowing packages in this project:
 • matplotlib to create plots and visualizations
 
 # Data:
-For this project, we have adapted the Stroke data that have been used for stroke prediction [1], available online at (https://data.mendeley.com/datasets/x8ygrw87jw/1):
+For this project, I have adapted the Stroke data that have been used for stroke prediction [1], available online at (https://data.mendeley.com/datasets/x8ygrw87jw/1):
 Some critical information:
 1. File name: stroke_update.csv
 2. 2740 instances
